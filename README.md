@@ -5,3 +5,8 @@ Columbia University Engineering - Fintech Module 1
 ## About
 Python program that automates the tasks associated with valuing microlending loans
 
+
+## Contributor:
+
+Lee Copeland
+Columbia Engineering
